@@ -1,4 +1,20 @@
 {
-  "id": 0
-  "name": "basavaraj"
+  "names": [
+      {
+        fname: "basav",
+        lname: "sabarad"
+      },
+      {
+        fname: "trupti",
+        lname: "sabarad"
+      },
+      {
+        fname: "trupti",
+        lname: "sabarad"
+      },
+      {
+        fname: "trupti",
+        lname: "sabarad"
+      }
+    ]
 }
